@@ -1,0 +1,80 @@
+Uri: https://at.alicdn.com/t/c/font_2553510_kfwma2yq1rs.woff?t=1694918397022
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\t\c\font_2553510_kfwma2yq1rs.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zen+Dots&display=swap
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\s\zendots\v12\XRXX3ICfm00IGoesQeaE.ttf
+Content Type: font/ttf
+
+Uri: https://madhouse404.com/
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\index.htm
+Content Type: text/html
+
+Uri: https://madhouse404.com/assets/index-300fc08e.css
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\assets\index-300fc08e.css
+Content Type: text/css
+
+Uri: https://madhouse404.com/assets/index-4e480cbd.js
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\assets\index-4e480cbd.js
+Content Type: text/javascript
+
+Uri: https://madhouse404.com/favicon.ico
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://madhouse404.com/images/eye_wrap.png
+File Name: C:\work\Downloaded Web Sites\18.01\madhouse404.com\images\eye_wrap.png
+Content Type: image/png
+
